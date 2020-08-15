@@ -10,6 +10,7 @@ public class Assignment1 {
 		double total = product1 + product2 + product3;
 		double finalamt = (tax/100.0)*total;
 		System.out.println("Final Amount " + finalamt + total);
+		
 	}
 
 }
